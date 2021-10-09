@@ -26,13 +26,13 @@
 device {
 
 	# Device codename
-	DEVICE="violet"
+	DEVICE="Infinix-X573"
 
 	# Linux Kernel version and patchlevel
-	LINUX_VERSION="4.14"
+	LINUX_VERSION="3.18.72"
 
 	# Defconfig
-	DEFCONFIG=vendor/violet-perf_defconfig
+	DEFCONFIG=Infinix-X573_defconfig
 
 	# 
 }
